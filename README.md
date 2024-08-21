@@ -8,7 +8,7 @@
 
 <img src="preview.png" alt="Exemplo imagem">
 
-Um formulário com validação client-side e server-side, consumindo APIs de busca de CEP e de validação do próprio formulário.
+Um formulário com validação client-side e server-side, consumindo APIs de busca de CEP, CPF e de validação do próprio formulário.
  
 > Durante o desenvolvimento do projeto, tive a oportunidade de aprender e praticar as seguintes tecnologias:
 > Vite: Configuração rápida e eficiente para projetos modernos de frontend. <br>
