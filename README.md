@@ -6,10 +6,10 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-leonel/formulario-react-hook-form-e-zod?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-leonel/formulario-react-hook-form-e-zod?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="preview.png" alt="Exemplo imagem">
 
-Um formulário com validação client-side e server-side, consumindo APIs de busca de CEP e de validação do próprio formulário.
-> 
+Um formulário com validação client-side e server-side, consumindo APIs de busca de CEP, CPF e de validação do próprio formulário.
+ 
 > Durante o desenvolvimento do projeto, tive a oportunidade de aprender e praticar as seguintes tecnologias:
 > Vite: Configuração rápida e eficiente para projetos modernos de frontend. <br>
 > Zod: Validação de dados e segurança em formulários com TypeScript. <br>
