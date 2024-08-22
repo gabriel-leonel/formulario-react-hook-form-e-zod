@@ -1,7 +1,7 @@
 {
   "homepage": "https://gabriel-leonel.github.io/formulario-react-hook-form-e-zod",
-  "name": "mp-formulario-dinamico-com-react-hook-form-e-zod",
-  "private": true,
+  "name": "formulario-dinamico-com-react-hook-form-e-zod",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
