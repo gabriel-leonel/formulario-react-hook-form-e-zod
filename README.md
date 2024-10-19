@@ -21,7 +21,7 @@ Um formulário com validação client-side e server-side, consumindo APIs de bus
 
 Para contribuir com o projeto, siga estas etapas:
 
-1. Clone este repositório: `git clone git@github.com:gabriel-leonel/formulario-react-hook-form-e-zod.git`
+1. Clone este repositório: `git clone https://github.com/gabriel-leonel/formulario-react-hook-form-e-zod.git`
 2. Bifurque este repositório.
 3. Crie um branch: `git checkout -b <nome_branch>`.
 4. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
