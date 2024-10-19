@@ -17,17 +17,16 @@ Um formulário com validação client-side e server-side, consumindo APIs de bus
 > Consumo de APIs: Integração com serviços externos e manipulação de dados. <br>
 > Tailwind CSS: Estilização utilizando classes utilitárias para um design responsivo e moderno. <br>
 
-Você pode acessar o formulário [clicando neste link.](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
 ## 📫 Deseja contribuir?
 
 Para contribuir com o projeto, siga estas etapas:
 
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin formulario-react-hook-form-e-zod / <local>`
-5. Crie a solicitação de pull.
+1. Clone este repositório: `git clone git@github.com:gabriel-leonel/formulario-react-hook-form-e-zod.git`
+2. Bifurque este repositório.
+3. Crie um branch: `git checkout -b <nome_branch>`.
+4. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+5. Envie para o branch original: `git push origin formulario-react-hook-form-e-zod / <local>`
+6. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
